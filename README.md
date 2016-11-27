@@ -1,5 +1,5 @@
-# graphql-cms
-GraphQL is an example of a technology that is widely usable across different tools, and especially as a replacement for Content Managment System (CMS) REST API replacement as a more generic standard.
+# GraphQL CMS
+GraphQL is an example of a technology that is widely usable across different tools, and especially as a replacement for Content Managment System (CMS) REST API replacement as a more generic standard. Many content management systems use a REST API that is custom built, making switching between CMSes hard - even when you're lead to believe that you're <a href="http://symfony-cms.net/decoupling-headless-cms">decoupling your content storage and display layer</a>. GraphQL is a promising technology that can be useful in the future, even if you're not working in the CMS space.
 
 This page is actually mostly and experiment in SEO to see how GitHub can be used to prop up results in SERPs as Github.com itself is actually a pretty powerful web property in the Google search engine.
 
